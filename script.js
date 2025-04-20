@@ -665,7 +665,7 @@ const bookmarks = [
         id: '81',
         name: 'MYFREEMP3',
         url: 'https://tool.liumingye.cn/music/?page=searchPage#/',
-        category: 'music',
+        category: 'holdall',
         ico: "https://ae01.alicdn.com/kf/H085a1499a38d4d8a920a396abceffa2bW.jpg",
         description: 'MYFREEMP3'
     },
@@ -674,7 +674,7 @@ const bookmarks = [
         name: '熊猫无损音乐',
         url: 'https://www.xmwav.com/',
         category: 'music',
-        ico: "https://ae01.alicdn.com/kf/H085a1499a38d4d8a920a396abceffa2bW.jpg",
+        ico: "https://www.xmwav.com/assets/picture/logo.png",
         description: '熊猫无损音乐'
     },
     {
@@ -834,7 +834,7 @@ const bookmarks = [
         name: '在线转换器',
         url: 'https://cn.office-converter.com/?ref=www.myxinwen.top',
         category: 'holdall',
-        ico: "https://cn.office-converter.com/images/favicon.ico",
+        ico: "https://cn.office-converter.com/Online-Converter/Office-Converter.svg",
         description: '免费快速在线将pdf, 图像, 视频, 文档, 音频, 电子书及压缩等文件格式转换为其他格式'
     },
     {
@@ -860,6 +860,182 @@ const bookmarks = [
         category: 'music',
         ico: "https://netease-music.fe-mm.com/favicon.ico",
         description: 'mmPlayer'
+    },
+    {
+        id: '106',
+        name: '果核剥壳',
+        url: 'https://www.ghxi.com/',
+        category: 'NetSearch',
+        ico: "https://www.ghxi.com/wp-content/uploads/2019/12/2020logo.png",
+        description: '果核剥壳'
+    },
+    {
+        id: '107',
+        name: '盘友网',
+        url: 'https://panyq.com/',
+        category: 'NetSearch',
+        ico: "https://panyq.com/favicon.ico",
+        description: '盘友网'
+    },
+    {
+        id: '108',
+        name: '口袋云盘',
+        url: 'https://www.woxiangsou.com/home?deviceId=e721fe11-2303-411a-9b70-b66bf19ce610&channelId=4',
+        category: 'NetSearch',
+        ico: "http://hy.cdn.sohucs.com/sns_clouddisk_search/prod/favicon.ico",
+        description: '口袋云盘'
+    },
+    {
+        id: '109',
+        name: 'UP云搜',
+        url: 'https://www.upyunso.com/',
+        category: 'NetSearch',
+        ico: "https://cdn.tkk78.com/upyunso/web_static/static/img/upso_mlogo.png",
+        description: 'UP云搜'
+    },
+    {
+        id: '110',
+        name: '天翼搜',
+        url: 'https://www.tianyiso.com/',
+        category: 'NetSearch',
+        ico: "https://www.tianyiso.com/favicon.ico",
+        description: '天翼搜'
+    },
+    {
+        id: '111',
+        name: '小纸条',
+        url: 'https://ali.gitcafe.ink/',
+        category: 'NetSearch',
+        ico: "",
+        description: '小纸条'
+    },
+    {
+        id: '112',
+        name: '易搜',
+        url: 'https://yiso.fun/',
+        category: 'NetSearch',
+        ico: "https://yiso.fun/static/img/logo.7101c44.png",
+        description: '易搜'
+    },
+    {
+        id: '113',
+        name: '狸猫盘',
+        url: 'https://www.alipansou.com/',
+        category: 'NetSearch',
+        ico: "https://www.alipansou.com/favicon.ico",
+        description: '狸猫盘'
+    },
+    {
+        id: '114',
+        name: '小马盘',
+        url: 'https://www.xiaomapan.com/#/main/search?restype=1',
+        category: 'NetSearch',
+        ico: "https://res.hexiaotu.com/sousuo/xiaomapan/favicon.ico",
+        description: '小马盘'
+    },
+    {
+        id: '115',
+        name: '阿众软件库',
+        url: 'https://www.azhongruanjian.com/',
+        category: 'NetSearch',
+        ico: "https://www.azhongruanjian.com/wp-content/uploads/2024/06/favicon.ico",
+        description: '阿众软件库'
+    },
+    {
+        id: '116',
+        name: '吾爱破解',
+        url: 'https://www.52pojie.cn/portal.php',
+        category: 'NetSearch',
+        ico: "https://static.52pojie.cn/static/image/common/logo.png",
+        description: '吾爱破解'
+    },
+    {
+        id: '117',
+        name: '华军软件园',
+        url: 'https://www.onlinedown.net/',
+        category: 'NetSearch',
+        ico: "https://res.njxzwh.com/onlinedown/images/logo.png",
+        description: '华军软件园'
+    },
+    {
+        id: '118',
+        name: '西部落',
+        url: 'https://www.xibuluo.com/',
+        category: 'NetSearch',
+        ico: "https://www.xibuluo.com/View/images/logo.xibuluo.com.png",
+        description: '西部落'
+    },
+    {
+        id: '119',
+        name: '423Down',
+        url: 'https://www.423down.com/#google_vignette',
+        category: 'NetSearch',
+        ico: "https://www.423down.com/wp-content/themes/D7/img/favicon.ico",
+        description: '423Down'
+    },
+    {
+        id: '120',
+        name: '异星软件空间',
+        url: 'https://www.yxssp.com/#google_vignette',
+        category: 'NetSearch',
+        ico: "https://www.yxssp.com/wp-content/uploads/2017/12/yx250.png",
+        description: '异星软件空间'
+    },
+    {
+        id: '121',
+        name: '腾龙工作室',
+        url: 'https://www.tenlonstudio.com/',
+        category: 'NetSearch',
+        ico: "https://www.tenlonstudio.com/wp-content/uploads/2019/09/new-logo.png",
+        description: '腾龙工作室'
+    },
+    {
+        id: '122',
+        name: '小刀娱乐网',
+        url: 'https://xd.x6d.com/html/23.html',
+        category: 'NetSearch',
+        ico: "https://xd.x6d.com/static/images/logo.png",
+        description: '小刀娱乐网'
+    },
+    {
+        id: '123',
+        name: '懒得勤快',
+        url: 'https://masuit.net/',
+        category: 'NetSearch',
+        ico: "https://masuit.net/favicon.png",
+        description: '懒得勤快'
+    },
+    {
+        id: '124',
+        name: '亦是美',
+        url: 'http://www.yishimei.cn/',
+        category: 'NetSearch',
+        ico: "https://www.xibuluo.com/View/images/logo.xibuluo.com.png",
+        description: '亦是美'
+    },
+    {
+        id: '125',
+        name: '蓝点网',
+        url: 'https://www.landiannews.com/',
+        category: 'NetSearch',
+        ico: "https://static.lancdn.com/landian/v4.0.1/images/logo_light.png",
+        description: '蓝点网'
+    },
+    {
+        id: '126',
+        name: '飘雪网',
+        url: 'https://www.chinapyg.com/',
+        category: 'NetSearch',
+        ico: "https://www.xibuluo.com/View/images/logo.xibuluo.com.png",
+        description: '飘雪网'
+    },
+    {
+        id: '126',
+        name: '小白课堂',
+        url: 'http://www.itmind.net/collect',
+        category: 'NetSearch',
+        ico: "http://www.itmind.net/wp-content/uploads/2020/09/1599721603-322895ededfd717.png",
+        description: '小白课堂'
     },
 
 
