@@ -1030,12 +1030,244 @@ const bookmarks = [
         description: '飘雪网'
     },
     {
-        id: '126',
+        id: '127',
         name: '小白课堂',
         url: 'http://www.itmind.net/collect',
         category: 'NetSearch',
         ico: "http://www.itmind.net/wp-content/uploads/2020/09/1599721603-322895ededfd717.png",
         description: '小白课堂'
+    },
+    {
+        id: '128',
+        name: '图欧学习导航',
+        url: 'https://tuostudy.upnb.top/',
+        category: 'BookmarkNavigation',
+        ico: "https://tuostudy.upnb.top/wp-content/uploads/2025/03/主题logo黑色NEW.png",
+        description: '图欧学习导航'
+    },
+    {
+        id: '129',
+        name: '阿虚同学的储物间',
+        url: 'https://axutongxue.com/',
+        category: 'BookmarkNavigation',
+        ico: "https://axutongxue.com/favicon.ico",
+        description: '阿虚同学的储物间'
+    },
+    {
+        id: '130',
+        name: '陈蛋蛋的宝藏库',
+        url: 'http://chendandan.ysepan.com/',
+        category: 'BookmarkNavigation',
+        ico: "http://chendandan.ysepan.com/favicon.ico",
+        description: '陈蛋蛋的宝藏库'
+    },
+    {
+        id: '131',
+        name: '小帅同学的储物间',
+        url: 'https://xiaoshuai.link/locker/',
+        category: 'BookmarkNavigation',
+        ico: "https://xiaoshuai.link/favicon.ico",
+        description: '小帅同学的储物间'
+    },
+    {
+        id: '132',
+        name: '金榜题名',
+        url: 'http://qzbltushu.ysepan.com/',
+        category: 'BookmarkNavigation',
+        ico: "http://qzbltushu.ysepan.com/favicon.ico",
+        description: '金榜题名'
+    },
+    {
+        id: '133',
+        name: '山海之花',
+        url: 'https://cbge.top/ziyuan',
+        category: 'BookmarkNavigation',
+        ico: "https://cbge.top/wp-content/uploads/2024/03/cropped-2024030919225699.png",
+        description: '山海之花'
+    },
+    {
+        id: '134',
+        name: '懒人找资源',
+        url: 'https://lazybook.fun/#/',
+        category: 'BookmarkNavigation',
+        ico: "https://lazybook.fun/lazy.png",
+        description: '懒人找资源'
+    },
+    {
+        id: '135',
+        name: '咖喱君的资源目录',
+        url: 'https://flowus.cn/galijun/share/de0f6d2f-df17-4075-86ed-ebead0394a77',
+        category: 'BookmarkNavigation',
+        ico: "https://cdn2.flowus.cn/fe-web-app-images/favicon.png",
+        description: '咖喱君的资源目录'
+    },
+    {
+        id: '136',
+        name: '小彬网',
+        url: 'https://www.xiaobinwang.cc/',
+        category: 'BookmarkNavigation',
+        ico: "https://www.xiaobinwang.cc/zb_users/upload/2022/10/202210011664608340207364.png",
+        description: '小彬网'
+    },
+    {
+        id: '137',
+        name: '资源网',
+        url: 'https://heeee.com/',
+        category: 'BookmarkNavigation',
+        ico: "https://heeee.com/wp-content/uploads/2023/12/logo.png",
+        description: '资源网'
+    },
+    {
+        id: '138',
+        name: '禧客小店',
+        url: 'http://xikestore.ysepan.com/',
+        category: 'BookmarkNavigation',
+        ico: "http://xikestore.ysepan.com/favicon.ico",
+        description: '禧客小店'
+    },
+    {
+        id: '139',
+        name: '小z博客',
+        url: 'https://blog.xiaoz.org/',
+        category: 'BookmarkNavigation',
+        ico: "https://blog.xiaoz.org/favicon.ico",
+        description: '小z博客'
+    },
+    {
+        id: '140',
+        name: '超能搜',
+        url: 'https://www.chaonengsou.com/',
+        category: 'BookmarkNavigation',
+        ico: "https://www.chaonengsou.com/favicon.ico",
+        description: '超能搜'
+    },
+    {
+        id: '141',
+        name: '设计导航',
+        url: 'https://hao.shejidaren.com/',
+        category: 'BookmarkNavigation',
+        ico: "https://hao.shejidaren.com/images/favicon.ico",
+        description: '设计导航'
+    },
+    {
+        id: '142',
+        name: '喜欢书签',
+        url: 'https://www.likebookmark.com/',
+        category: 'BookmarkNavigation',
+        ico: "https://www.likebookmark.com/favicon.ico",
+        description: '喜欢书签'
+    },
+    {
+        id: '143',
+        name: '阡途导航',
+        url: 'http://123.tentod.com/',
+        category: 'BookmarkNavigation',
+        ico: "http://123.tentod.com/images/icons/favicon.png",
+        description: '阡途导航'
+    },
+    {
+        id: '144',
+        name: '星云导航',
+        url: 'https://www.xygalaxy.com/',
+        category: 'BookmarkNavigation',
+        ico: "https://www.xygalaxy.com/favicon.ico",
+        description: '星云导航'
+    },
+    {
+        id: '146',
+        name: '夸克资源小海洋',
+        url: 'https://link3.cc/quarkresource',
+        category: 'BookmarkNavigation',
+        ico: "https://link3.cc/favicon.ico",
+        description: '夸克资源小海洋'
+    },
+    {
+        id: '147',
+        name: '奔跑中的奶酪',
+        url: 'https://www.runningcheese.com/',
+        category: 'BookmarkNavigation',
+        ico: "https://www.runningcheese.com/favicon.ico",
+        description: '奔跑中的奶酪'
+    },
+    {
+        id: '148',
+        name: '果汁导航',
+        url: 'http://guozhivip.com/',
+        category: 'BookmarkNavigation',
+        ico: "http://guozhivip.com/images/ic.ico",
+        description: '果汁导航'
+    },
+    {
+        id: '149',
+        name: '爱达杂货铺',
+        url: 'https://adzhp.cc/',
+        category: 'BookmarkNavigation',
+        ico: "https://adzhp.cc/wp-content/uploads/2020/02/A-win.ico",
+        description: '爱达杂货铺'
+    },
+    {
+        id: '150',
+        name: '轻工具导航',
+        url: 'https://qinggongju.com/',
+        category: 'BookmarkNavigation',
+        ico: "https://qinggongju.com/wp-content/uploads/2023/11/logo1.png",
+        description: '爱达杂货铺'
+    },
+    {
+        id: '151',
+        name: '不死鸟-每日分享',
+        url: 'https://iui.su/fx/',
+        category: 'BookmarkNavigation',
+        ico: "https://iui.su/2025.ico",
+        description: '不死鸟-每日分享'
+    },
+    {
+        id: '152',
+        name: 'IMyshare',
+        url: 'https://imyshare.com/',
+        category: 'BookmarkNavigation',
+        ico: "https://imyshare.com/favicon.ico",
+        description: 'IMyshare'
+    },
+    {
+        id: '153',
+        name: '万人迷吧',
+        url: 'https://www.wanrenmi8.com/cn/index.html',
+        category: 'BookmarkNavigation',
+        ico: "https://www.wanrenmi8.com/assets/images/1.png",
+        description: '万人迷吧'
+    },
+    {
+        id: '154',
+        name: '免费AI工具导航网站',
+        url: 'https://nav.laogou717.com/',
+        category: 'BookmarkNavigation',
+        ico: "https://nav.laogou717.com/images/favicon.png",
+        description: '免费AI工具导航网站'
+    },
+    {
+        id: '155',
+        name: '阅文网址大全',
+        url: 'https://www.myxinwen.top/',
+        category: 'BookmarkNavigation',
+        ico: "https://www.myxinwen.top/wp-content/uploads/2024/05/0000-1.png",
+        description: '阅文网址大全'
+    },
+    {
+        id: '156',
+        name: '终极导航',
+        url: 'https://www.zjnav.com/',
+        category: 'BookmarkNavigation',
+        ico: "https://www.zjnav.com/wp-content/uploads/2024/01/1705467656-favicon.png",
+        description: '终极导航'
+    },
+    {
+        id: '157',
+        name: '硬核指南',
+        url: 'https://yinghezhinan.com/',
+        category: 'BookmarkNavigation',
+        ico: "https://yinghezhinan.com/statics/images/favicon.webp",
+        description: '硬核指南'
     },
 
 
@@ -1054,25 +1286,25 @@ const categoriesList = document.getElementById('categories');
 
 // 初始化页面
 // 添加主题切换功能
-function setupThemeToggle() {
-    const themeToggle = document.getElementById('theme-toggle');
+// function setupThemeToggle() {
+//     const themeToggle = document.getElementById('theme-toggle');
 
-    themeToggle.addEventListener('click', () => {
-        document.body.classList.toggle('dark-mode');
+//     themeToggle.addEventListener('click', () => {
+//         document.body.classList.toggle('dark-mode');
 
-        if (document.body.classList.contains('dark-mode')) {
-            themeToggle.textContent = '☀️';
-        } else {
-            themeToggle.textContent = '🌙';
-        }
-    });
-}
+//         if (document.body.classList.contains('dark-mode')) {
+//             themeToggle.textContent = '☀️';
+//         } else {
+//             themeToggle.textContent = '🌙';
+//         }
+//     });
+// }
 
 // 在init函数中调用
 function init() {
     renderBookmarks();
     setupEventListeners();
-    setupThemeToggle(); // 添加这一行
+    // setupThemeToggle(); // 添加这一行
 }
 
 // 书签列表随机颜色渲染
